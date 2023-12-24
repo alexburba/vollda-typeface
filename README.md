@@ -1,6 +1,7 @@
 Vollda is a old-style text typeface with a more serious mood and more latin-based cyrillic, based on the Vollkorn typeface (vollkorn-typeface.com)
 
 **Why the heck?**
+
 a) I wanted to add more a serious mood so I redesigned "a" in a Granjon style.
 The original "a" of Vollkorn looked kinda bulky and playful to me.
 
