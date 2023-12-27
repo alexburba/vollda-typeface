@@ -19,13 +19,7 @@ That is not what you get when you try to write them with an 6.0mm nib or print t
 
 
 ## Examples
-![Untitled 001](https://github.com/alexburba/vollda/assets/132825885/5cbf1e33-d24b-4a06-a3b7-4be968ae78ea)
-
-![Untitled 003](https://github.com/alexburba/vollda/assets/132825885/3bf692c4-d0e2-45eb-905b-4c5c3db77ab9)
-
-![Untitled 003](https://github.com/alexburba/vollda/assets/132825885/b303cd48-a796-4c5b-b056-949ed1795d72)
-
-![Untitled 002](https://github.com/alexburba/vollda/assets/132825885/5a1132f3-12f3-43c3-bec3-116b708cf398)
+![Screenshot 2023-12-27 at 04 54 24](https://github.com/alexburba/vollda-typeface/assets/132825885/51c1e600-4d2e-43dc-a2fe-5a4d4294ae3c)
 
 
 
